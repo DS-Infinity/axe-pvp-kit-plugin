@@ -1,0 +1,7 @@
+name: MinecraftPlugin
+version: 1.0
+main: com.example.testplugin.Main
+
+commands:
+  kit:
+    description: kit command
